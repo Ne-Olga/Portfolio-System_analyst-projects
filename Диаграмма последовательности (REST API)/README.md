@@ -15,6 +15,7 @@
 
 - draw.io
 - Swagger
+- JSON
 - Sequence diagram
 - постановка задачи разработчикам
 
