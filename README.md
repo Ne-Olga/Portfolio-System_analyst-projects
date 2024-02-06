@@ -15,7 +15,8 @@
 
 **3. Проект “Построение Sequence diagram (REST API)”:**
 - draw.io
-- Swagger
+- OPEN API (Swagger), основные методы
+- JSON
 - Sequence diagram
 - постановка задачи разработчикам
   
