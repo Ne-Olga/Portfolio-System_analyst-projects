@@ -14,7 +14,7 @@
 **Навыки и инструменты:**
 
 - draw.io
-- Swagger
+- OPEN API (Swagger), основные методы
 - JSON
 - Sequence diagram
 - постановка задачи разработчикам
